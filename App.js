@@ -7,6 +7,7 @@ import { NavigationContainer } from '@react-navigation/native';
 
 const Drawer = createDrawerNavigator();
 
+
 function Feed() {
   return (
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
